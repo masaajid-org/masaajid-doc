@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="460" src="https://github.com/masjidhub/masjidhub-doc/assets/60695851/933b7d2d-8134-4c36-9ce1-a4329ae2d7d3" alt="masjidhub_mock_logo">
+  <img width="50%" src="https://github.com/masjidhub/masjidhub-doc/assets/60695851/933b7d2d-8134-4c36-9ce1-a4329ae2d7d3" alt="masjidhub_mock_logo">
 </p>
 
 # Project Proposal: MasjidHub
