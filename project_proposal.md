@@ -1,17 +1,17 @@
 <p align="center">
-  <img width="50%" src="https://github.com/masjidhub/masjidhub-doc/assets/60695851/933b7d2d-8134-4c36-9ce1-a4329ae2d7d3" alt="masjidhub_mock_logo">
+  <img width="50%" src="" alt="masaajid_mock_logo">
 </p>
 
-# Project Proposal: MasjidHub
+# Project Proposal: Masaajid
 
 ## Overview:
-MasjidHub is a comprehensive web application designed to empower mosques, enhance communication, and foster unity within the Muslim communities. By bridging the gap between mosques and muslims, MasjidHub revolutionizes online mosque-community interactions, offering a unified, streamlined platform for engagement, information sharing, and community building.
+Masaajid is a comprehensive web application designed to empower mosques, enhance communication, and foster unity within the Muslim communities. By bridging the gap between mosques and muslims, Masaajid revolutionizes online mosque-community interactions, offering a unified, streamlined platform for engagement, information sharing, and community building.
 
 ### The Problem:
 Traditionally, mosques have grappled with fragmented online communication channels, hindering their ability to effectively engage with their community. Conversely, Muslims have faced challenges in discovering and interacting with their local mosques online due to the absence of a centralized platform. This disjointed online landscape has led to missed opportunities for online community involvement, event participation, and seamless information sharing.
 
-### MasjidHub's Solution:
-MasjidHub is the definitive answer to these challenges, offering a solution that redefines how mosques and Muslims connect and engage. The platform provides:
+### Masaajid's Solution:
+Masaajid is the definitive answer to these challenges, offering a solution that redefines how mosques and Muslims connect and engage. The platform provides:
 1. **Centralized Mosque Communication**:
    - Effortlessly create and manage detailed mosque profiles with essential information such as location, contact details, prayer times, and upcoming events.
    - A unified dashboard for mosque administrators to share event details, announcements, and community updates seamlessly.
@@ -36,7 +36,7 @@ MasjidHub is the definitive answer to these challenges, offering a solution that
    - Customizable profiles for users to save favorite mosques and receive tailored updates.
    - Personalized event recommendations based on user preferences, enhancing engagement and participation.
 
-### MasjidHub's Unique Features:
+### Masaajid's Unique Features:
 
 - **Unified Experience Across Mosques**:
   - A consistent user experience (UX) and intuitive flow for Muslims engaging with mosques, both within their community and beyond.
@@ -51,7 +51,7 @@ MasjidHub is the definitive answer to these challenges, offering a solution that
   - A platform that facilitates dialogue, interaction, and meaningful connections within the Muslim community.
 
 #### Studio Version (Mosque Admin App):
-The Studio Version of MasjidHub equips mosque administrators with the tools needed to create, manage, and share their digital presence effectively:
+The Studio Version of Masaajid equips mosque administrators with the tools needed to create, manage, and share their digital presence effectively:
 
 - **Efficient Website Customization**:
   - Intuitive drag-and-drop interface for mosque website customization, offering options for color schemes, fonts, layout, and content placement.
@@ -68,7 +68,7 @@ The Studio Version of MasjidHub equips mosque administrators with the tools need
   - Implement stringent security measures, including role-based access control and data encryption, to safeguard user information.
 
 ### Prioritizing Unity and Accessibility:
-MasjidHub's core mission revolves around unity, accessibility, and community empowerment. It is designed to:
+Masaajid's core mission revolves around unity, accessibility, and community empowerment. It is designed to:
 
 - **Unify Mosques and the Muslim Community**:
   - A central digital hub fostering collaboration and collective growth among mosques and community members.
@@ -79,7 +79,7 @@ MasjidHub's core mission revolves around unity, accessibility, and community emp
   - Empower mosques with the tools needed to efficiently communicate, share, and engage with their community.
 
 #### Scope:
-The project scope encompasses the creation and implementation of MasjidHub's normal and studio versions, with a keen focus on user experience, feature-rich functionalities, and seamless integration. By providing a centralized hub for mosques and Muslims, MasjidHub aims to redefine mosque-community interactions and elevate the digital presence of mosques.
+The project scope encompasses the creation and implementation of Masaajid's normal and studio versions, with a keen focus on user experience, feature-rich functionalities, and seamless integration. By providing a centralized hub for mosques and Muslims, Masaajid aims to redefine mosque-community interactions and elevate the digital presence of mosques.
 
 #### Conclusion:
-MasjidHub is not just a web application; it is a transformative tool designed to empower mosques, strengthen community ties, and enhance the Muslim experience. By providing a centralized platform for mosques and Muslims, MasjidHub aims to unite, engage, and uplift the entire Muslim community. With a focus on unity.
+Masaajid is not just a web application; it is a transformative tool designed to empower mosques, strengthen community ties, and enhance the Muslim experience. By providing a centralized platform for mosques and Muslims, Masaajid aims to unite, engage, and uplift the entire Muslim community. With a focus on unity.
