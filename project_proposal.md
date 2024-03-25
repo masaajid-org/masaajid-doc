@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" src="" alt="masaajid_mock_logo">
+  <img width="50%" src="https://github.com/masjidhub/masaajid-doc/assets/60695851/316532c6-1b82-414d-9605-ee514ea2d83d" alt="masaajid_mock_logo">
 </p>
 
 # Project Proposal: Masaajid
